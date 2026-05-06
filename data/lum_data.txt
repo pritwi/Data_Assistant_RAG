@@ -1,0 +1,95 @@
+1. ABOUT LUMINAR TECHNOLAB Luminar Technolab is an ISO 9001:2015 certified software training institute based in Kerala, providing advanced technology training and 100% placement assistance. It is affiliated with NACTET and IAO.
+
+2. CORE COURSES & SYLLABUS DETAILS
+
+PYTHON DATA SCIENCE - ML - AI - & POWER BI (Recommended)
+
+Duration: 7 Months | 10 Modules
+
+Topics: Python, SQL, Data Analytics (EDA), Machine Learning, Deep Learning, Natural Language Processing (NLP), Generative AI, Power BI, AWS Cloud.
+
+Outcome: Data Scientist, ML Engineer, AI Specialist.
+
+PYTHON DJANGO - REACT - FULL STACK WEB DEVELOPMENT EXPERT
+
+Duration: 6.5 Months | 5 Modules
+
+Topics: Core Python, Programming Basics, Unix Commands, Advanced Python, Django Framework, REST API, Git, ReactJs, Web Concepts & Tools.
+
+Outcome: Full Stack Python Developer.
+
+MEA(R)N STACK WEB DEVELOPMENT EXPERT
+
+Duration: 6 Months | 7 Modules
+
+Topics: HTML, CSS, Bootstrap, Javascript, Typescript, Git, Angular, React.js, Next.js, Node.js, Express.js, MongoDB.
+
+Outcome: MEARN Stack Developer.
+
+SOFTWARE TESTING TRAINING (AI POWERED) - MANUAL & AUTOMATION
+
+Duration: 5 Months | 11 Modules
+
+Highlights: Covers both Manual and Automation testing with AI integration. Training available in Kochi, Calicut & Trivandrum.
+
+Outcome: QA Engineer, Software Tester.
+
+JAVA SPRING FULL STACK DEVELOPMENT
+
+Duration: 4 Months | 8 Modules
+
+Topics: Java Fundamentals, OOPS, Advanced Java, Java Database Programming, JDK New Features, Java Enterprise Edition (Java EE), Spring Framework.
+
+FLUTTER TRAINING
+
+Duration: 5 Months | 5 Modules
+
+Details: Cross-platform mobile app development for Android and iOS using Dart and Flutter.
+
+ROBOTICS WITH AI & IOT TRAINING
+
+Duration: 5 Months | 9 Modules
+
+Topics: AI-Driven Control Systems, ML integration, IoT protocols, Autonomous industrial robotics.
+
+ASP.NET MVC WITH ANGULAR - FULL STACK
+
+Duration: 5 Months | 9 Modules
+
+Topics: Git installation, GitHub repository creation, Real-time code integration, ASP.NET MVC architecture.
+
+3. BRANCH LOCATIONS AND CONTACTS
+
+KOCHI (Headquarters):
+
+Address: Ground Floor, K7 REALTY, Juma Masjid Road, Seaport-Airport Rd, near District Panchayat, Kakkanad, Kochi, Kerala - 682030.
+
+Phone: +91 8086 651 651
+
+Email: contact@luminartechnolab.com
+
+CALICUT:
+
+Address: 2nd Floor, Mullath Building, Opp. KSRTC Bus Stand, Mavoor Road, Calicut, Kerala - 673001.
+
+Phone: +91 8086 531 531, 0495 - 3573001
+
+TRIVANDRUM:
+
+Address: 3rd Floor, Nikunjam Saras Building, Opp. Kerala PSC Office, Pattom, Thiruvananthapuram, Kerala - 695004.
+
+Phone: +91 6235 651 651
+
+THRISSUR:
+
+Address: 3rd Floor, Paramekkavu Pathayapura Building, Round South, Thrissur, Kerala - 680001.
+
+Phone: +91 7025 651 651
+
+4. PLACEMENT & SERVICES
+
+Placement Assistance: 100% placement support provided for all professional courses.
+
+Partnerships: Hire from Us programs for recruiters.
+
+Training Mode: Available both online and offline in Kerala.
