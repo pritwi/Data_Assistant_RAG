@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Models / embeddings
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.gguf
+
+# Data
+data/
+vector_store/
+embeddings/
+
+# OS
+.DS_Store
